@@ -1,4 +1,4 @@
-Great! Let’s start with **Phase 1: Foundations of Multivariate Statistical Analysis**, step by step. I’ll explain the concepts thoroughly and create potential **interview questions** alongside each topic.
+# **Phase 1: Foundations of Multivariate Statistical Analysis**
 
 ---
 
